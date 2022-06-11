@@ -1,0 +1,14 @@
+.main-content{
+    width: 800px;
+    background-color: #7489c0;
+    color: white;
+    font-size: 12px;
+    padding-bottom: 25px;
+}
+#main-div{
+    font-size: 15px;
+}
+.text{
+    color: red;
+
+}
