@@ -1,0 +1,34 @@
+body {
+    margin:100;
+    padding:100px;
+    font-family: sans-serif;
+    background: linear-gradient(rgb(228, 108, 202), #243b55);
+}
+.fundo{
+        margin:0;
+        padding:0;
+        text-align: center;
+        border:2px;
+}
+.main-content{
+    width: 00px;
+    background-color: #7489c0;
+    color: white;
+    font-size: 12px;
+    padding-bottom: 25px;
+}
+.main-div{
+    width: 100px;
+    max-width: 1200px;
+    font-size: 15px;
+}
+.text{
+    color: red;
+
+}
+.text1{
+    color:black;
+}
+.text2{
+    color: whitesmoke;
+}
